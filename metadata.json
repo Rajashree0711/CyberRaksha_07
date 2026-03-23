@@ -1,0 +1,7 @@
+{
+  "name": "CyberRaksha: Learn & Protect",
+  "description": "A gamified cyber safety awareness platform for beginners, offering interactive scenarios, quizzes, and posters powered by AI in Tamil and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
